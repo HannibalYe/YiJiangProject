@@ -1,0 +1,6 @@
+2018-02-11 12:14:36,106 DEBUG [org.myframework.jdbc.sqlconfig.impl.XmlSqlConfig] - <load sqlconfig from dirctory :H:\myWorld\workSpace\Neu-training-Photo\webapp\WEB-INF\classes\sql>
+2018-02-11 12:22:59,291 DEBUG [org.myframework.jdbc.sqlconfig.impl.XmlSqlConfig] - <load sqlconfig from dirctory :H:\myWorld\workSpace\Neu-training-Photo\webapp\WEB-INF\classes\sql>
+2018-02-11 12:23:10,860 DEBUG [org.myframework.jdbc.sqlconfig.impl.XmlSqlConfig] - <load sqlconfig from dirctory :H:\myWorld\workSpace\Neu-training-Photo\webapp\WEB-INF\classes\sql>
+2018-02-11 12:26:06,651 DEBUG [org.myframework.jdbc.sqlconfig.impl.XmlSqlConfig] - <load sqlconfig from dirctory :H:\myWorld\workSpace\Neu-training-Photo\webapp\WEB-INF\classes\sql>
+2018-02-11 12:26:37,064 DEBUG [org.myframework.jdbc.sqlconfig.impl.XmlSqlConfig] - <load sqlconfig from dirctory :H:\myWorld\workSpace\Neu-training-Photo\webapp\WEB-INF\classes\sql>
+2018-02-11 12:27:23,332 DEBUG [org.myframework.jdbc.sqlconfig.impl.XmlSqlConfig] - <load sqlconfig from dirctory :H:\myWorld\workSpace\Neu-training-Photo\webapp\WEB-INF\classes\sql>

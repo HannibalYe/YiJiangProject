@@ -1,0 +1,6 @@
+2018-03-22 18:03:12,756 DEBUG [org.myframework.jdbc.sqlconfig.impl.XmlSqlConfig] - <load sqlconfig from dirctory :C:\Users\jason.zhenchi.ye\Desktop\YIJIANG\Neu-training-Photo\webapp\WEB-INF\classes\sql>
+2018-03-22 18:05:17,980 DEBUG [org.myframework.jdbc.sqlconfig.impl.XmlSqlConfig] - <load sqlconfig from dirctory :C:\Users\jason.zhenchi.ye\Desktop\YIJIANG\Neu-training-Photo\webapp\WEB-INF\classes\sql>
+2018-03-22 18:08:54,502 WARN [org.springframework.web.servlet.PageNotFound] - <No mapping found for HTTP request with URI [/webDemo/front//favicon.ico] in DispatcherServlet with name 'spring'>
+2018-03-22 18:13:00,164 DEBUG [org.myframework.jdbc.sqlconfig.impl.XmlSqlConfig] - <load sqlconfig from dirctory :C:\Users\jason.zhenchi.ye\Desktop\YIJIANG\yjProject\webapp\WEB-INF\classes\sql>
+2018-03-22 19:15:10,259 DEBUG [org.myframework.jdbc.sqlconfig.impl.XmlSqlConfig] - <load sqlconfig from dirctory :C:\Users\jason.zhenchi.ye\Desktop\YIJIANG\yjProject\webapp\WEB-INF\classes\sql>
+2018-03-22 19:16:20,297 DEBUG [org.myframework.jdbc.sqlconfig.impl.XmlSqlConfig] - <load sqlconfig from dirctory :C:\Users\jason.zhenchi.ye\Desktop\YIJIANG\yjProject\webapp\WEB-INF\classes\sql>

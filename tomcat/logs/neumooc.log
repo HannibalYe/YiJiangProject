@@ -1,0 +1,3 @@
+2018-03-10 10:05:46,326 DEBUG [org.myframework.jdbc.sqlconfig.impl.XmlSqlConfig] - <load sqlconfig from dirctory :H:\myWorld\workSpace\Neu-training-Photo\webapp\WEB-INF\classes\sql>
+2018-03-10 10:06:43,946 DEBUG [org.myframework.jdbc.sqlconfig.impl.XmlSqlConfig] - <load sqlconfig from dirctory :H:\myWorld\workSpace\Neu-training-Photo\webapp\WEB-INF\classes\sql>
+2018-03-10 10:06:44,695 WARN [org.springframework.web.servlet.PageNotFound] - <No mapping found for HTTP request with URI [//webDemo/front/favicon.ico] in DispatcherServlet with name 'spring'>
